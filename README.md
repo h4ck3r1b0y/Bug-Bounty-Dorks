@@ -1,8 +1,8 @@
 # Bug-Bounty-Dorks
 
-<h1>Got Frustated by getting dupes from big platform? </h1>
+<h2>Got Frustated by getting dupes from big platform? </h2>
 <p>
-    This will help newbies and beginner to build their confidence before going on big platform.
+    This will help newbies and beginner to build their confidence before going on big platform. <br>
     This will help you to find private bug bounty programs across the globe.
  </p>
 
@@ -139,3 +139,6 @@ site:..cn intext:security report reward
 "vulnerability reporting policy"
 
 "van de melding met een minimum van een" -site:responsibledisclosure.nl
+
+
+#ALL THE BEST << >>
